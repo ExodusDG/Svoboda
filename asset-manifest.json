@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Svoboda/static/css/main.99ae29d1.css",
+    "main.js": "/Svoboda/static/js/main.bbf60408.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Svoboda/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Login_page_background.png": "/Svoboda/static/media/Login_page_background.7c531c96dc9b10c848e5.png",
+    "index.html": "/Svoboda/index.html",
+    "main.99ae29d1.css.map": "/Svoboda/static/css/main.99ae29d1.css.map",
+    "main.bbf60408.js.map": "/Svoboda/static/js/main.bbf60408.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Svoboda/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99ae29d1.css",
+    "static/js/main.bbf60408.js"
+  ]
+}
